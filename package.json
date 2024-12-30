@@ -1,0 +1,27 @@
+{
+  "name": "miniproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amar3344/miniProject.git"
+  },
+  "keywords": [
+    "MINI_PROJECT_NODE_MONGO_EXPRESS"
+  ],
+  "author": "AMAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amar3344/miniProject/issues"
+  },
+  "homepage": "https://github.com/amar3344/miniProject#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.2"
+  }
+}
